@@ -2,9 +2,9 @@
 Realizar la implementación de un programa en C para la K64 tal cada cuando
 arranca el sistema muestra la siguiente secuencia:
 
-• Amarillo
-• Rojo
-• Morado
+  • Amarillo
+  • Rojo
+  • Morado
 
 Después del morado se muestra el amarillo, rojo, morado y así de manera
 consecutiva hasta que se presiona el SW2 para mostrar la secuencia:
